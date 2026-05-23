@@ -8,5 +8,4 @@ Lo hice para practicar la lógica de programación aplicada a la **medicina**.
 - Aplica la fórmula médica: peso / estatura².
 - Clasifica el resultado según los rangos de salud estándar.
 
-## Cómo usarlo
-Solo necesitas ejecutar el archivo `imc.py` y seguir las instrucciones en pantalla.
+
