@@ -1,9 +1,7 @@
-capital = 1000
-interes = 0.10
-inflacion = 0.04
-años = 5
-
-# Aquí abrimos la "caja" del ciclo for
+capital = float(input("Escribe el capital inicial: "))
+interes = float(input("Escribe la tasa de interés anual: "))
+inflacion = float(input("Escribe la inflación anual : "))
+años = int(input("Escribe la cantidad de años a simular: "))
 for año in range(1, años + 1):
     
     ganancia = capital * interes 
